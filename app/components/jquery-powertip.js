@@ -1,0 +1,1 @@
+export { default } from 'engine-new-test/components/jquery-powertip';
